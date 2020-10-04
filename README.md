@@ -1,19 +1,27 @@
-# CodanNGT-SRx
+#HF-Comms-Research
 
-Codan NGT-SRx profile
+Radio Communications Research Info Sharing Repository
 
-This is a NGT SRx Profile made available for Amateur and or Outpost Station Use for VK (Australia) - for Advanced LCD operators.
+Every effort has been made to ensure the data is as accurate and up to date as is possible where applicable.
 
-Feel Free to use and modify as necessary to suit your particular OutPost provider system(s) and type of radio. Some options may not be available with your partiular hardware. This profile will not correct those issues. Options need to be obtained and provided from an authorised options dealer or service agent.
+No warranty or suitability for any purpose whatsoever is expressly implied, given or shall be levied. Use any data or info herein at your own risk.
 
-Every effort has been made to ensure the data is as accurate and up to date as is possible.
 
-The Callsign and selcall numbers have to be changed to your credentials before use. NOCALL ETC  :)
 
-No warranty or suitability for any purpose whatsoever is expressly implied, given or shall be levied.
-Use at your own risk.
+#Codan NGT-SRx profile
 
-DON'T CONTACT THE AUTHOR for a copy of the NSP program. 
-No correspondance will be entered into with respect to this.
+This NGT SRx Profile is made available for Amateur and or Outpost Station Use for VK (Australia) 
+- specifically made available for Advanced LCD operators however portions may have use cases for other interested parties.
+
+Feel Free to use and modify as necessary to suit your particular OutPost provider system(s) / type of radio. 
+
+Some mode options may not be available with your particular hardware. 
+This profile will not correct those issues. 
+Mode Options need to be obtained and provided from an authorised options dealer or service agent while the product is still in support.
+
+The Callsign and selcall numbers have to be changed to your credentials before use. 
+Search NOCALL 123...ETC :)
+
+DON'T CONTACT THE AUTHOR for a copy of the NSP program. No correspondence will be entered into with respect to this.
 
 Ron
