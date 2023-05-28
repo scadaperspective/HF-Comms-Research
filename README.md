@@ -23,6 +23,7 @@ Mode Options need to be obtained and provided from an authorised options dealer 
 The Callsign and selcall numbers have to be changed to your credentials before use. 
 Search NOCALL 123... 0000 ETC :)
 
-DON'T CONTACT THE AUTHOR for a copy of the NSP program. No correspondence will be entered into with respect to this. Refusal may offend.
+DON'T CONTACT THE AUTHOR for a copy of the NSP program or to do changes to a profile especially the Envoy Profile. 
+No correspondence will be entered into with respect to this. Refusal may offend.
 
 Ron
