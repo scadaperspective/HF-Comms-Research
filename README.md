@@ -8,12 +8,13 @@ No warranty or suitability for any purpose whatsoever is expressly implied, give
 
 
 
-#Codan NGT-ARv / NGT-SRx profile
+#Codan NGT-ARv / NGT-SRx / Envoy profiles
 
-These NGT Profiles are made available for Amateur and or Outpost Station Use for VK (Australia) 
+These Codan Radio Profiles are made available for Amateur and or Outpost Station Use for VK (Australia) 
 - specifically made available for Advanced LCD operators however portions may have use cases for other interested parties.
 
-Feel Free to use and modify (delete)  as necessary to suit your particular OutPost provider system(s) / type of radio. 
+Feel Free to use and modify (delete) channel records as necessary with your handset as is the case for the envoy profile
+to suit your particular OutPost provider system(s) / type of radio. 
 
 Some mode options may not be available with your particular hardware. 
 This profile will not correct those issues. 
